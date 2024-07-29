@@ -7,4 +7,5 @@ Keeps track of which vehicle is parked, how many slots are available for which v
 
 ## NOTE:
 Followed the tutorial provided by Kunal Nalawade through freecodecamp website: https://www.freecodecamp.org/news/java-project-parking-lot-management-system/#project-requirements
+
 HOWEVER, certain things in the code like encapsulation, exceptional handling done selfly.
